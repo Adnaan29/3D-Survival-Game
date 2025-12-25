@@ -150,3 +150,8 @@ The MIT License in this repository applies **only to the source code** written f
 This project’s source code is licensed under the **MIT License**.
 
 Third-party assets used in the project are subject to their own licenses and are not included under the MIT License.
+
+## 👥 Contributors
+
+- **Adnaan Momin** – [GitHub](https://github.com/Adnaan29)
+- **Tejas Abhang** – [GitHub](https://github.com/TejasAbhang77)
